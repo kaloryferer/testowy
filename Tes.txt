@@ -3,6 +3,6 @@ linia 2,5
 
 linia 5
 
-zmiany
+zmiany w master
 
 
