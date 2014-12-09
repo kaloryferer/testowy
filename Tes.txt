@@ -1,5 +1,5 @@
 linie 1
-line 2 w master
+linia 2
 
 linia 5
 
