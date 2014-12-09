@@ -1,7 +1,6 @@
 linie 1
-line 2 po fixie
-
+line 2 w master
 
 linia 5
 
-zmiany w fix
+
