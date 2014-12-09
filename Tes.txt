@@ -1,5 +1,5 @@
 linie 1
-line 2 po fixie
+line 2 w fixie
 
 
 linia 5
